@@ -1,7 +1,7 @@
 ﻿
 /* Nombre: German Junior Zapata Fuerte  Matricula: 16-SIIN-1-061 Sección: 0541 */
 
-/* Nombre: Noriely Rodrigez Nivar       Matricula: 16-SIIN-1-158 Seccion: 0541 */
+/* Nombre: Noriely Rodrigez Nivar       Matricula: 16-SIIN-1-159 Seccion: 0541 */
 
 /* Nombre: Bladimir Osvaldo Martinez    Matricula: 16-SIIN-1-116 Sección: 0541 */
 
